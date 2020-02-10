@@ -1,5 +1,5 @@
-# Avian pathogenic *E. coli* (APEC) virulence factor database
+# APEC virulence factor database
 
-Collection of virulence factors associated with APEC.
+Collection of virulence factors associated with Avian pathogenic *E. coli* (APEC).  
 Compiled by Dr. Timothy Johnson.
 
